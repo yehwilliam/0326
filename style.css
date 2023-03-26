@@ -1,0 +1,46 @@
+.container {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.photo a:link {
+	color: #C1191C;
+}
+.photo a:hover {
+	color: #B4BB1C;
+}
+
+
+
+header h1 {
+	color: #DF8B2E;
+	text-align: center;
+}
+nav {
+	text-align: center;
+}
+nav a:link  {
+	color: #BB2F2F;
+	text-decoration: none;
+}
+nav a:hover {
+	color: #B4BB1C;
+	text-decoration: underline;
+}
+footer {
+	background-color: #D0B3B3;
+	text-align: center;
+}
+
+.calligraphyimg {
+	height: 250px;
+	background-image: url(0326/calligraphy.jpg);
+	border-radius: 42px;
+}
+article h2 {
+	background-color: #D5888A;
+	border-radius: 12px;
+	height: 45px;
+	padding-left: 20px;
+	line-height: 45px;
+}
